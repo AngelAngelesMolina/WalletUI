@@ -1,6 +1,5 @@
-package com.jaamcoding.walletui.ui.theme
+package com.jaamcoding.walletui.presentation.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

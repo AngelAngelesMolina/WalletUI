@@ -13,7 +13,7 @@ composeCharts  = "0.2.1"
 
 [libraries]
 androidx-material-icons-extended = { group = "androidx.compose.material", name = "material-icons-extended", version.ref = "materialIconsExtended" }
-compose-charts = { group = "io.github.bytebeats:compose-charts", name = "compose-charts", version.ref = "composeCharts"}
+compose-charts = { group = "io.github.bytebeats", name = "compose-charts", version.ref = "composeCharts" }
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
 junit = { group = "junit", name = "junit", version.ref = "junit" }
 androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
