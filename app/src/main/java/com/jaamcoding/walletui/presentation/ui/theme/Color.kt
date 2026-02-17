@@ -1,4 +1,4 @@
-package com.jaamcoding.walletui.ui.theme
+package com.jaamcoding.walletui.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
